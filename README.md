@@ -1,1 +1,2 @@
 Matt Monroe Music Site on netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aeb08e1f-2cb8-411e-a8af-e9b0f745416e/deploy-status)](https://app.netlify.com/sites/lustrous-kangaroo-81a210/deploys)
