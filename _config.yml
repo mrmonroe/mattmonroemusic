@@ -102,7 +102,10 @@ theme: chic
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/mrmonroe/mattmonroemusic.github.io.git
+  branch: master
+  message: "{{ now('YY-MM-DD HH:mm:ss') }}"
 
 #sitemap
 ## Docs: https://github.com/hexojs/hexo-generator-sitemap
