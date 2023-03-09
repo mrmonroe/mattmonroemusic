@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chicmonroe
+theme: ChicCustom
 theme_config:
   navname: Matt Monroe Music
   nav:
