@@ -97,7 +97,37 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chic
+theme: chicmonroe
+theme_config:
+  navname: Matt Monroe Music
+  nav:
+    My Music: /music
+    Videos: /videos
+    Live Shows: /shows
+    EPK: /epk
+  # Profile
+  nickname: Matt Monroe
+
+  ### this variable is MarkDown form.
+  description: Singer - Guitarist - Songwriter
+  avatar: /image/mattcropped.png
+  # main menu navigation
+  ## links key words should not be changed.
+  ## Complete url after key words.
+  ## Unused key can be commented out.
+  links:
+    FaceBook: https://www.facebook.com/mattmonroemusic
+    Twitter: https://twitter.com/mmonroemusic
+
+    Spotify: https://open.spotify.com/artist/5b4DjCOAk9Nf7UE19UMKcI?si=6fXI-pwaQ0WY9c-dqs4WfQ
+    Apple: https://music.apple.com/us/artist/matt-monroe/1654980199
+    Amazon: https://music.amazon.com/artists/B0BPL49KYF/matt-monroe?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_hn2yhgVgOXcLWoZfwRQqcGSte
+
+
+  # how links show: you have 2 choice--text or icon.
+  links_text_enable: true
+  links_icon_enable: false
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
