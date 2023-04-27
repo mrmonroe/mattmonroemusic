@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Matt Monroe Music
-subtitle: ''
+title: Matt Monroe
+subtitle: 'Official Music Site'
 description: ''
 keywords:
 author: Matt Monroe
@@ -17,8 +17,8 @@ url: https://mattmonroemusic.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -99,7 +99,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: ChicCustom
 theme_config:
-  navname: Matt Monroe Music
+  navname: Matt Monroe 
+  subtitle: 'Official Music Site'
   nav:
     My Music: /music
     Videos: /videos
