@@ -102,10 +102,12 @@ theme_config:
   navname: Matt Monroe 
   subtitle: 'Official Music Site'
   nav:
+    Subscribe: /signup
     My Music: /music
     Videos: /videos
     Live Shows: /shows
     EPK: /epk
+    
   # Profile
   nickname: Matt Monroe
 
